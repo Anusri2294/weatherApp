@@ -1,3 +1,4 @@
+netlify link:https://weatherappanu.netlify.app/
 steps: 
 step1: download the zipped file
 step 2: extract and arrange the folders
