@@ -1,4 +1,5 @@
 netlify link:https://weatherappanu.netlify.app/
+ Note: please allow access of your location to browser get the weather report.
 steps: 
 step1: download the zipped file
 step 2: extract and arrange the folders
@@ -21,3 +22,5 @@ major Functionality:
 
  
  For fetching the weather report of the current location and searched city open-mateo.com is used and to fetch the name of the city nominatim.openstreetmap.org is used. 
+
+
